@@ -1,6 +1,6 @@
 # Job-Tracker
 **Importing Libraries:**
-The script starts by importing necessary libraries, including BeautifulSoup for web scraping, requests for making HTTP requests, and other libraries for data manipulation and visualization.
+The script imports necessary libraries, including BeautifulSoup for web scraping, requests for making HTTP requests, and other libraries for data manipulation and visualization.
 Fetching Data from the Website:
 
 The script sends a request to the Shine job portal's URL and checks the response status.
